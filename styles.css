@@ -1,21 +1,306 @@
-body {
-    font-family: Arial, sans-serif;
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    background-color: #FFF;
+    color: #263238;
 }
 
-header, footer, section {
-    margin: 20px;
+nav{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
 }
 
-section {
-    border: 1px solid #ccc;
-    padding: 10px;
-}
-
-ul {
+nav ul{
     list-style-type: none;
-    padding: 0;
+    margin: 0;
+    padding: 30px 0;
+    overflow: hidden;
+    font-family: 'Open Sans', sans-serif;
 }
 
-ul li {
-    margin-bottom: 5px;
+nav ul li {
+    display: inline;
+    margin-left: 30px;
 }
+
+nav li a {
+    font-size: 20px;
+    text-decoration: none;
+    color: blueviolet;
+}
+
+nav li a:hover{
+    color: #000;
+}
+
+.container{
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.title{
+    font-size: 70px;
+    color: blueviolet;
+}
+
+.title-section{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color: #263238;
+    font-weight: 200 !important;
+    margin-bottom: 75px;
+}
+
+.content{
+    display: block;
+}
+
+.content-flex{
+    display: flex;
+}
+
+.text-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.header-page{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+
+.logo{
+    width: 270px;
+    height: 250px;
+}
+
+.text-1{
+    width: 33%;
+    padding: 10px 20px;
+}
+
+.text-2{
+    width: 33%;
+    padding: 10px 20px;
+}
+
+.text-3{
+    width: 33%;
+    padding: 10px 20px;
+}
+
+.subtitle{
+    font-size: 26px;
+    color: blueviolet;
+    font-weight: 600;
+}
+
+.subtitle-2{
+    font-size: 18px;
+    color: #424242;
+    font-weight: 600;
+}
+
+.subtitle-3{
+    font-size: 20px;
+    color: #4A148C;
+    font-weight: 500;
+}
+
+.subtitle-4{
+    font-size: 20px;
+    color: #4A148C;
+    font-weight: 500;
+}
+
+.text{
+    width: 50%;
+    text-align: justify;
+}
+
+.text-background-white{
+    background-color: #FFF;
+    color: #455A64 !important;
+    padding: 20px 40px;
+    margin-bottom: 60px;
+}
+
+.img-container{
+    display: block;
+    width: 50%;
+    justify-content: center;
+    padding: 50px;
+}
+
+.img-container-2{
+    display: block;
+    width: 50%;
+    justify-content: center;
+    padding: 10px 50px;
+}
+
+.img-1{
+    width: 100%;
+    height: 500px;
+    margin-bottom: 20px;
+}
+
+.img-2{
+    width: 100%;
+    height: 500px;
+    margin-bottom: 20px;
+}
+
+.requirements{
+    text-align: center;
+}
+
+.social-media{
+    width: 33.3%;
+    height: 150px;
+    display: block;
+    text-align: center;
+}
+
+.social-media a{
+    color: #4A148C;
+    text-decoration: none;
+}
+
+.social-media-icon{
+    width: 50px;
+    height: 50px;
+}
+
+.social-media-description{
+    margin-top: 10px;
+}
+
+.whatsapp{
+    width: 100%;
+    height: 150px;
+    font-size: 20px;
+    justify-content: center;
+}
+
+.attributions{
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+}
+
+.attributions a{
+    width: 800px;
+    background-color: #4A148C;
+    color: #FFF;
+    padding: 5px;
+    border-radius: 50px 50px 50px 50px;
+}
+
+.separator{
+    width: 100%;
+    height: 2px;
+    margin: 60px 0;
+}
+
+.separator-header{
+    width: 100%;
+    height: 3px;
+    background-color: #4A148C;
+}
+
+.background-gray{
+    background-color: #ECEFF1;
+}
+
+.background-white{
+    background-color: #FFF;
+}
+
+.color-white{
+    color: #FFF;
+}
+
+.color-gray{
+    color: #455A64;
+}
+
+#adopcion{
+    background-color: #FFF;
+    padding: 60px 0px 100px 0px;
+    margin: 0 !important;
+}
+
+#da-en-adopcion{
+    color: #424242;
+    background-color: #F3E5F5;
+    padding: 60px 0px 100px 0px;
+    margin: 0 !important;
+}
+
+#da-en-adopcion{
+    color: #424242;
+    background-color: #F3E5F5;
+    padding: 60px 0px 100px 0px;
+    margin: 0 !important;
+}
+#padrinaje{
+    background-color: #FFF;
+    padding: 60px 0px 100px 0px;
+    margin: 0 !important;
+}
+
+#contacto{
+    background-color: #F3E5F5;
+    color: #4A148C;
+    padding: 60px 0px 30px 0px;
+    margin: 0;
+}
+
+#donaciones{
+    color: #424242;
+    background-color: #F3E5F5;
+    padding: 60px 0px 100px 0px;
+    margin: 0 !important;
+}
+
+/*Aportes de Daniel*/
+/* Ajusta el ancho de la barra de navegación */
+/* Estilos para la barra de navegación fija */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ffffff; /* Color de fondo de la barra de navegación */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    z-index: 1000; /* Asegura que la barra esté por encima de otros elementos */
+}
+
+/* Estilos para los elementos de navegación */
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar li {
+    margin: 0 10px; /* Espaciado entre elementos de navegación */
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #333; /* Color del texto de navegación */
+    font-weight: bold;
+}
+
+
+
+
