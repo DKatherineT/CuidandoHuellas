@@ -5,7 +5,7 @@ CUIDANDO HUELLAS
   <img src = "https://i.postimg.cc/dtzFhjDj/IMG-20230801-WA0025.jpg" 
   <p/>
 </div>
- _ÍNDICE_
+  CONTENIDOS
  
 1. Descripción del Proyecto
    
