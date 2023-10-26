@@ -6,9 +6,9 @@
 3. Demostración de Funciones y Aplicaciones
 4. Acceso al Proyecto
 5. Tecnologías Utilizadas
-6. Personas Contribuyentes
-7. Personas Desarrolladoras del Proyecto
+6. Personas Desarrolladoras del Proyecto
   
+
 
 1. _Descripción del Proyecto_
 "Cuidando Huellas" es un prototipo que promueve la adopción responsable de animales. nosotros conectamos a personas QUE ESTEN dispuestas a adoptar Y DAR EN ADOPCION A animales en situación de abandono, fomentando el amor y la responsabilidad. 
