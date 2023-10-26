@@ -1,7 +1,5 @@
 <div>
-  <p style = 'text-align:center;'>
-  <img src = "https://postimg.cc/JGcvgJNs" 
-  <p/>
+  
 </div>
 
  _ÍNDICE_
