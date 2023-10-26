@@ -23,9 +23,12 @@ INICIO
 
   1. _Descripción del Proyecto_
      "Cuidando Huellas" es un prototipo que promueve la adopción responsable de animales. nosotros conectamos a personas QUE ESTEN dispuestas a adoptar Y DAR EN ADOPCION A animales en situación de abandono, fomentando el amor y la responsabilidad. 
-     *ofrecemos servicios funerarios especializados y respetuosos para honrar la memoria de las mascotas fallecidas.
-     *aceptamos donaciones de todo aquel que quiere apoyarnos a seguir adelante cuidando de nuestros amigos peludos.
-     *TE DAMOS LA OPCION DE apadrinaR A CUALQUIERA DE NUESTROS PELUDOS, AYUDARLO Y CUIDARLO COMO SI FUERA DE TU HOGAR.
+
+      *Ofrecemos servicios funerarios especializados y respetuosos para honrar la memoria de las mascotas fallecidas.
+
+      *Aceptamos donaciones de todo aquel que quiere apoyarnos a seguir adelante cuidando de nuestros amigos peludos.
+
+      *Te damos la opción de apadrinar a cualquiera de nuestros peludos, ayuarlos y cuidarlos como si fuera tu hogar
 
   3. _Estado del Proyecto_
 
