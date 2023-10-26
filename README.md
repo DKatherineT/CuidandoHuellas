@@ -50,9 +50,10 @@ INICIO
       - Ofrecemos servicios funerarios para los animales que han fallecido.
 
  4. _Acceso al Proyecto_
+
     Se podrá acceder al proyecto en nuestra plataforma en línea (La cual está en fase de desarrollo)
 
-  5. _Tecnologías Utilizadas_
+  6. _Tecnologías Utilizadas_
 
      - JavaScript: JavaScript es un lenguaje de programación fundamental para el desarrollo web. Lo utilizamos para crear interacciones dinámicas en la interfaz de usuario, realizar validaciones de formularios y mejorar la experiencia del usuario.
      - CSS: utilizamos para dar estilo y diseño a nuestro sitio web. Nos permite definir la presentación visual de la plataforma, incluyendo colores, fuentes, tamaños y diseños. Gracias a CSS, podemos crear un diseño atractivo y fácil de navegar para nuestros usuarios. 
@@ -61,7 +62,7 @@ INICIO
      - Repositorios en GitHub: Utilizamos GitHub como plataforma de control de versiones para gestionar y colaborar en el desarrollo de nuestro proyecto. Los repositorios de GitHub nos permiten dar un seguimiento de los cambios, gestionar problemas, realizar 
        colaboraciones, llevar registros de trabajo personal y asegurarnos de que el código fuente esté bien organizado y documentado. Nos permite conectar partes del proyecto y trabajar remotamente.
 
-  6. _Personas Desarrolladoras del Proyecto_
+  7. _Personas Desarrolladoras del Proyecto_
 
      - Sara Aucique
      - Katherine Ruiz
