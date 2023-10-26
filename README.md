@@ -55,6 +55,29 @@ INICIO
    - CSS: Este lenguaje de estilo se utiliza para dar formato y diseño al sitio web. Con CSS, se puede definir el aspecto visual de la página, incluyendo colores, fuentes, tamaños y diseños.
    - HTML: Este lenguaje de marcado se utiliza para estructurar el contenido del sitio web. Con HTML, se crean las páginas web, incluyendo encabezados, párrafos, imágenes y enlaces.
    - GitHub: Esta plataforma de control de versiones se utiliza para gestionar el desarrollo del sitio web. Con GitHub, se puede realizar un seguimiento de los cambios, colaborar con otros desarrolladores y asegurar la calidad del código.
+   - <section id="servicios-funerarios">
+                        <div class="container">
+
+                            <article>
+                                <div class="title-section">
+                                    <h1">Servicios funerarios</h1>
+                                </div>
+                                <div class="text-background-white content-flex">
+                                    <div class="text" class="content ">
+                                        <h2 class="subtitle">Despidiendo a nuestros queridos compañeros</h2>
+                                        <p>
+                                            En momentos difíciles , cuando nuestros fieles amigos peludos nos dejan,
+                                            sabemos lo importante que es brindarles un adiós digno y respetuoso.
+                                            Nuestros servicios funerarios para mascotas están diseñados con el amor y el
+                                            respeto que se merecen.
+                                        </p>
+                                        <span class="subtitle-2">Descripción</span>
+                                        <p>
+                                            Ofrecemos una variedad de opciones para honrar la memoria de tu querida
+                                            mascota. Desde servicios de cremación individual con urnas personalizadas
+                                            hasta entierros en nuestro jardín conmemorativo, estamos aquí para ayudarte
+                                            a elegir la opción que mejor se adapta a tus necesidades y deseos.
+                                        </p>
 
   6. _Personas Desarrolladoras del Proyecto_
 
@@ -63,3 +86,4 @@ INICIO
      - Luisa Sanchez
      - Michell Marín
      - Manuela Hernandez
+
