@@ -30,7 +30,8 @@ INICIO
 
       *Te damos la opción de apadrinar a cualquiera de nuestros peludos, ayuarlos y cuidarlos como si fuera tu hogar
 
-  3. _Estado del Proyecto_
+ 
+  2. _Estado del Proyecto_
 
    El proyecto se encuentra en desarrollo.
 
@@ -60,7 +61,7 @@ INICIO
      - Repositorios en GitHub: Utilizamos GitHub como plataforma de control de versiones para gestionar y colaborar en el desarrollo de nuestro proyecto. Los repositorios de GitHub nos permiten dar un seguimiento de los cambios, gestionar problemas, realizar 
        colaboraciones, llevar registros de trabajo personal y asegurarnos de que el código fuente esté bien organizado y documentado. Nos permite conectar partes del proyecto y trabajar remotamente.
 
-  7. _Personas Desarrolladoras del Proyecto_
+  6. _Personas Desarrolladoras del Proyecto_
 
      - Sara Aucique
      - Katherine Ruiz
