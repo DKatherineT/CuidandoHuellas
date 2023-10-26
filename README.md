@@ -6,11 +6,17 @@ CUIDANDO HUELLAS
   <p/>
 </div>
  _ÍNDICE_
+ 
 1. Descripción del Proyecto
+   
 2. Estado del Proyecto
+
 3. Demostración de Funciones y Aplicaciones
+
 4. Acceso al Proyecto
+   
 5. Tecnologías Utilizadas
+    
 6. Personas Desarrolladoras del Proyecto
   
 INICIO 
@@ -18,11 +24,10 @@ INICIO
   1. _Descripción del Proyecto_
      "Cuidando Huellas" es un prototipo que promueve la adopción responsable de animales. nosotros conectamos a personas QUE ESTEN dispuestas a adoptar Y DAR EN ADOPCION A animales en situación de abandono, fomentando el amor y la responsabilidad. 
      *ofrecemos servicios funerarios especializados y respetuosos para honrar la memoria de las mascotas fallecidas.
+     *aceptamos donaciones de todo aquel que quiere apoyarnos a seguir adelante cuidando de nuestros amigos peludos.
+     *TE DAMOS LA OPCION DE apadrinaR A CUALQUIERA DE NUESTROS PELUDOS, AYUDARLO Y CUIDARLO COMO SI FUERA DE TU HOGAR.
 
-   *aceptamos donaciones de todo aquel que quiere apoyarnos a seguir adelante cuidando de nuestros amigos peludos.
-   *TE DAMOS LA OPCION DE apadrinaR A CUALQUIERA DE NUESTROS PELUDOS, AYUDARLO Y CUIDARLO COMO SI FUERA DE TU HOGAR.
-
-  2. _Estado del Proyecto_
+  3. _Estado del Proyecto_
 
    El proyecto se encuentra en desarrollo.
 
