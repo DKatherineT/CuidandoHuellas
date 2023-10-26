@@ -2,7 +2,7 @@
 
 <div>
   <p style = 'text-align:center;'>
-  <img src = "https://i.postimg.cc/R0XwVYFh/SM.png" 
+  <img src = "https://i.postimg.cc/dtzFhjDj/IMG-20230801-WA0025.jpg" 
   <p/>
 </div>
  _ÍNDICE_
