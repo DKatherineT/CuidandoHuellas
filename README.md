@@ -34,13 +34,15 @@ INICIO
    El proyecto se encuentra en desarrollo.
 
   3. _Demostración de Funciones y Aplicaciones_
-     Funciones:
+
+      Funciones:
    
       - Adopción: Encontrar hogares para los animales que han sido rescatados.
       - Rehabilitación: Brindar atención médica y veterinaria a los animales que lo necesitan.
       - Educación: Promover el bienestar animal y la adopción responsable.
       - Funeraria: Brindar servicios funerarios para los animales que han fallecido.
-    Aplicaciones:
+   
+     Aplicaciones:
   
       - Reducen el número de animales abandonados o perdidos.
       - Proporcionamos hogares a los animales que necesitan un lugar para vivir.
